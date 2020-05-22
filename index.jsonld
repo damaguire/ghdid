@@ -4,47 +4,47 @@
   "publicKey": [
     {
       "type": "OpenPgpVerificationKey2019",
-      "id": "did:github:damaguire#BBX3tJDSaNUGstzk3ZoiR72CAWSj8scloFNEifBiEj8",
+      "id": "did:github:damaguire#x3ubAk2SqOd-By5CDp1juGURWF_oo1HNq74-AL6jxUQ",
       "controller": "did:github:damaguire",
-      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXsac8xMFK4EEAAoCAwQUoRsCFJZ+BUP9aiBv21rkq0TbYwjIPiz9McQi\r\ncwyftk8Q9iyFQOXkUQxnW7JWVI2fagrSJWuQqMhu3e99L+7vzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJexpzzBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQ8EWX3JUhEHx4qAEAo+2Mu5+QGN07Ko01ldAfOOk9\r\nVkVok8ivEGGAZD/GVw0A/RcAqK5xhm4KyWWmldXLOoyyUcgnASjL9/05+RcB\r\nhU0uzlMEXsac8xIFK4EEAAoCAwSdtiIC9tfDjx67liT4muPRX4rIQxBEN+OI\r\nNbX6r49S7KZ1hRSJNOoXsxuvcJdJViA2tVnNGOooSR+19fwVIXAjAwEIB8Jh\r\nBBgTCAAJBQJexpzzAhsMAAoJEPBFl9yVIRB8JlQBAPQXbvy96PjhvWQO1+nT\r\nFC9B13Qw0yXAgr0Pt43uPMSQAQCpbhDe3JG/l9qFXKD5OTxiPuFPD3rntjtr\r\nnhqeL5ybCQ==\r\n=jPWP\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXsf/FBMFK4EEAAoCAwSGLHo8CZFIgV1bBUoFW4d3N8tLKQ/0XDnPrQJO\r\nto/e8tCITpA1eLbpEN78EI2H5h/4QgAZ0d/l+14lBW8AV0L0zRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJex/8UBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQuzixMrYoD0suHQEAuaEDsIbNdMn1UtIsuhCagMrg\r\nA9qs3ZG4v+c3RmQtAeIA/ipFFfsrlmko0dll1Rp8y8BtZDFcVMsAiiO6k78u\r\nY9BGzlMEXsf/FBIFK4EEAAoCAwQIeKvNl784FBUMPnI4BqUDVGN5ofMTKn2t\r\nr2mzsr1FK6cYSRHKKft2ccowKOG9V81pnV3JrFvyQ4qnwYhin+rJAwEIB8Jh\r\nBBgTCAAJBQJex/8UAhsMAAoJELs4sTK2KA9LDNoBAJPumel4eD5NTaxAW+I4\r\nzFnzL1ZELR4AB5dq/YXTlNsLAP9adF4mmHuAR05HsBO5eWvdJA0BxKWMInuu\r\n14yzoBCoDQ==\r\n=kFxK\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
     },
     {
       "type": "OpenPgpVerificationKey2019",
-      "id": "did:github:damaguire#T0vi6VkJW7jOMXYKw9UUyHP8_-gRK6IrkfZ5DJKJ4S4",
+      "id": "did:github:damaguire#tap9XmqTFm5AacxSoFZgEIuNvh2GSOZ_uNvGlBc12rg",
       "controller": "did:github:damaguire",
-      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXsac8xMFK4EEAAoCAwTf4KvOCN48KFdMV4N6dpMfMiRNiyfpbRFwZeo5\r\nbhuJgQo9byvy7cbWADuhEcH4bjS9AKHbh/8mk6Yt4fSAIFr3zRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJexpzzBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQTloT8DOGrozGdwEAoAmkkpL+/pQOoOdk80a+5zIc\r\nrB2TnfCN/08eElGY6zQA/03UFDnT6839Begl9JvNn7Byc0kEOTtio16w0CNp\r\ns2lozlMEXsac8xIFK4EEAAoCAwQ5G0mHlmpPMd9wcv/1zcjgoWwyCgWGiQ2x\r\nuYFx8GbIRptB5E7eRVn776qnrBB6GY7z3AFFHLYdOacF3EI++3WPAwEIB8Jh\r\nBBgTCAAJBQJexpzzAhsMAAoJEE5aE/Azhq6M+O4BANQp+4iczUAAEuQHU2i2\r\nBcdiDTPxsKhDlKxvKBGhMyCIAQC8oJW36lzJSObYocslH5/pdfY5qfJ7udb8\r\nU0JbugNM3Q==\r\n=vZcT\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXsf/FBMFK4EEAAoCAwTMRWYabaqIx5CGNaIl6JFurW7iSXE+dmBsbRs7\r\nwa8ukleug3Dj4sdBA8gVuqh1aWqjZu0JdDwBszUV/hfRQ16JzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJex/8UBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQB1lpVARbcrfP3AD+NeVRBHaCxUaZKVJUSqEF5E+o\r\nxO9lhp1ZC8bWXWrV7z4A/jiW1dg/bo11lvNQlyJfXyTyhZl0dT4MndcYwieo\r\nczMdzlMEXsf/FBIFK4EEAAoCAwSJ/UKsBl6X0k9GsbwQg6TQjpQXqnCE8MZ/\r\nbpMPJW5lIOoSct+aV4EimgleXdLVKzUldmf0g9d8446DmZhOWFUuAwEIB8Jh\r\nBBgTCAAJBQJex/8UAhsMAAoJEAdZaVQEW3K3BZ4BAMlxZDfgF160mMe4BO4W\r\nUDoI3PFWCyJDAafOVhhtbl6DAP9ZGalO45UDbdqSkFQN5BTOU8kFzAZ4GtyI\r\nJ9V5+g3OjQ==\r\n=YAMF\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
     },
     {
       "type": "Ed25519VerificationKey2018",
-      "id": "did:github:damaguire#3qzk-L1jEEMSlXVDMIVnwbEXKJ18BvunIu36UDvnrl0",
+      "id": "did:github:damaguire#PKoRjtD1iQgQ8-lRI61cLkrElcl5OTKXRv1lyCuS00U",
       "controller": "did:github:damaguire",
-      "publicKeyBase58": "3umT1qB6WQkRmyLQttJ2VixWC52Fe3ecmRC2sH4jk8hU"
+      "publicKeyBase58": "CzxAs6tvZP1LRx2qn5HzGdiTH6JevbZxmuxLe7J4XByD"
     }
   ],
   "authentication": [],
   "service": [],
   "capabilityDelegation": [
-    "did:github:damaguire#3qzk-L1jEEMSlXVDMIVnwbEXKJ18BvunIu36UDvnrl0"
+    "did:github:damaguire#PKoRjtD1iQgQ8-lRI61cLkrElcl5OTKXRv1lyCuS00U"
   ],
   "capabilityInvocation": [
-    "did:github:damaguire#3qzk-L1jEEMSlXVDMIVnwbEXKJ18BvunIu36UDvnrl0"
+    "did:github:damaguire#PKoRjtD1iQgQ8-lRI61cLkrElcl5OTKXRv1lyCuS00U"
   ],
   "assertionMethod": [
-    "did:github:damaguire#3qzk-L1jEEMSlXVDMIVnwbEXKJ18BvunIu36UDvnrl0"
+    "did:github:damaguire#PKoRjtD1iQgQ8-lRI61cLkrElcl5OTKXRv1lyCuS00U"
   ],
   "keyAgreement": [
     {
-      "id": "did:github:damaguire#zC8KpyFALf2ZCK3Szu2LtWpHdh8QAqHhNWGEgQVKPBG11h",
+      "id": "did:github:damaguire#zC8yRRirJ7gRejDZDuAjRXuERYzmmBauwotVmwH8t1DgBV",
       "type": "X25519KeyAgreementKey2019",
       "controller": "did:github:damaguire",
-      "publicKeyBase58": "8q7FsyXTeouswQ2ScrKYf7xPt8Msizm1NMPNeEan9kuV"
+      "publicKeyBase58": "9UhiMfUvJgNJ7WFSmErZk4kFkVxE2DLJzcUuS45c7S5H"
     }
   ],
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2020-05-21T15:23:31Z",
-    "verificationMethod": "did:github:damaguire#3qzk-L1jEEMSlXVDMIVnwbEXKJ18BvunIu36UDvnrl0",
+    "created": "2020-05-22T16:34:28Z",
+    "verificationMethod": "did:github:damaguire#PKoRjtD1iQgQ8-lRI61cLkrElcl5OTKXRv1lyCuS00U",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Yd4Mk1HFrSBPVrmcmD7ganrKCjG2wCGkBS578YXR-n2HwcZ9xwQekpOoQ3auCJsrAoqyG_vlaGUfy7Cy-HOBBw"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..eRJrlgKD1IH4fHu2Ya4k1e5vaN1-ZcNejsBFG_EVB0tQTEUAyLap9U7j9JyGVaK9mlX3jpYYg8yQ6tfGgLfdBg"
   }
 }
