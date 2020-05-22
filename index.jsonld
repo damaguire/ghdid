@@ -22,20 +22,7 @@
     }
   ],
   "authentication": [],
-  "service": [{
-      "id": "did:example:123456789abcdefghi#oidc",
-      "type": "OpenIdConnectVersion1.0Service",
-      "serviceEndpoint": "https://openid.example.com/"
-    }, {
-      "type": "GatewayEndpointService",
-      "id": "did:example:123456789abcdefghi#inbox",
-      "serviceEndpoint": "https://manufacturer01.westus.cloudapp.azure.com:8080",
-      "description": "Endpoint to Gateway app",
-      "companyInfo": {
-        "name": "Manufacturer01",
-        "address": "0xEf6764aC81c754ee22F1756eb1E7c87D5D1D2569"
-      }
-    }],
+  "service": [],
   "capabilityDelegation": [
     "did:github:damaguire#3qzk-L1jEEMSlXVDMIVnwbEXKJ18BvunIu36UDvnrl0"
   ],
